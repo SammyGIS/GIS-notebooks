@@ -1,4 +1,4 @@
-# GIS-notebooks
+# Remote Sensing Image Processing and Analysis
 
 Notebboks and python script for gis and remote sensing tasks will be uploaded here
 
